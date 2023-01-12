@@ -1,0 +1,24 @@
+{
+  "name": "lodash-task-solves",
+  "version": "1.0.0",
+  "description": "<details>   <summary>1</summary> Посчитать количество слов в тексте",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-ST-RA/lodash-task-solves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-ST-RA/lodash-task-solves/issues"
+  },
+  "homepage": "https://github.com/A-ST-RA/lodash-task-solves#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
